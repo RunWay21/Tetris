@@ -1,0 +1,25 @@
+.nextfigure-columns{
+    min-width:154px;
+    height: 110px;
+}
+.nextfigure-title-column{
+    min-width: 154px;
+    height: 44px;
+    text-align: center;
+}
+.nextfigure-figure-column{
+    min-width: 154px;
+    height: 44px;
+}
+.nextfigure-figure-column-lefttempty{
+    min-width: 44px;
+    height: 22px;
+}
+.nextfigure-figure-column-rightempty{
+    min-width: 22px;
+    height: 22px;
+}
+.nextfigure-down-empty-column{
+    min-width: 154px;
+    height: 22px;
+}

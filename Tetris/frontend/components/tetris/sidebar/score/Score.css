@@ -1,0 +1,19 @@
+.score-columns{
+    width: 154px;
+    height: 88px;
+}
+.score-title-column{
+    min-width: 154px;
+    height: 44px;
+    text-align: center;
+}
+.score-value-column{
+    min-width: 154px;
+    height: 22px;
+    text-align: center;
+}
+
+.score-empty-column{
+    min-width: 154px;
+    height: 22px;
+}

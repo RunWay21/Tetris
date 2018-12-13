@@ -1,0 +1,13 @@
+.username-columns{
+    max-width: 154px;
+    height: 44px;
+}
+.username-title-column{
+    min-width: 154px;
+    height: 22px;
+    text-align: center;
+}
+.tetris-username-empty-column{
+    min-width: 154px;
+    height: 22px;
+}

@@ -1,0 +1,21 @@
+.login-page {
+    &.columns {
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    & > .column.login-form {
+        width: 25rem;        
+        border: 1px solid #ccc;
+    }
+
+    & > .column.login-logo {
+        width: 25rem;
+    }
+
+    hr {
+        margin: 0;
+    }
+}

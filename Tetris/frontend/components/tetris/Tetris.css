@@ -1,0 +1,12 @@
+.tetris-columns{
+    width: 374px;
+}
+
+.tetris_container{
+	width: 100vw;
+	height: 100vh;
+}
+
+.tetris{
+	padding-top:10vh; 
+}

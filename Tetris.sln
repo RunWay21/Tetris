@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{CBC22465-0060-4D29-B3D8-33BEE1B0348E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{CEF65095-6A0E-4BE3-9D7E-93E63D0CC53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{B9852028-B817-44BF-A9E0-389D71C7366D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{AA983A53-61E7-4775-9954-9F1EF24D1C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC22465-0060-4D29-B3D8-33BEE1B0348E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC22465-0060-4D29-B3D8-33BEE1B0348E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC22465-0060-4D29-B3D8-33BEE1B0348E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC22465-0060-4D29-B3D8-33BEE1B0348E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF65095-6A0E-4BE3-9D7E-93E63D0CC53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF65095-6A0E-4BE3-9D7E-93E63D0CC53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF65095-6A0E-4BE3-9D7E-93E63D0CC53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF65095-6A0E-4BE3-9D7E-93E63D0CC53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9852028-B817-44BF-A9E0-389D71C7366D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9852028-B817-44BF-A9E0-389D71C7366D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9852028-B817-44BF-A9E0-389D71C7366D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9852028-B817-44BF-A9E0-389D71C7366D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA983A53-61E7-4775-9954-9F1EF24D1C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA983A53-61E7-4775-9954-9F1EF24D1C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA983A53-61E7-4775-9954-9F1EF24D1C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA983A53-61E7-4775-9954-9F1EF24D1C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

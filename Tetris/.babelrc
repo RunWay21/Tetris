@@ -1,0 +1,28 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false,
+        "useBuiltIns": true,
+        "targets": {
+          "ie": 11,
+          "browsers": [
+            "last 2 versions"
+          ]
+        }
+      }
+    ],
+    [
+      "stage-2"
+    ],
+    [
+      "react"
+    ]
+  ],
+  "plugins": [
+    [
+      "transform-async-to-generator"
+    ]
+  ]
+}

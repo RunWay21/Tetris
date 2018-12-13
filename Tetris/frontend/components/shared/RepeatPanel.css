@@ -1,0 +1,9 @@
+.repeat-panel.loader{
+    margin: 0 auto;
+    width: 3em;
+    height: 3em;
+}
+
+.repeat-panel.after-loader{
+    margin-top: 0.3em;
+}

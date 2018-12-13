@@ -1,0 +1,27 @@
+﻿@using Tetris.Infrastructure.Extensions;
+
+@{
+    ViewBag.Title = "Spa";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Tetris</title>
+
+    <link href="~/favicon.ico" rel="icon" type="image/icon" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="@Url.ContentVersioned("~/Content/vendor.css")">
+    <link rel="stylesheet" href="@Url.ContentVersioned("~/Content/app.css")">
+</head>
+<body>
+    <div id="app"></div>
+    <script src="@Url.ContentVersioned("~/Content/vendor.js")"></script>
+    <script src="@Url.ContentVersioned("~/Content/app.js")"></script>
+</body>
+</html>
+

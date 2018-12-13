@@ -1,0 +1,10 @@
+.sidebar-columns{
+    width: 154px;
+    background: #9ead86;
+    border: 1px solid black
+}
+
+.sidebar-empty-column{
+    min-width: 154px;
+    height: 198px;
+}
