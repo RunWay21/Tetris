@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Field from './field/Field.jsx'
-import Sidebar from './sidebar/Sidebar.jsx'
-import { Columns, Button } from 'react-bulma-components/full'
+import Sidebar from './sidebar/Sidebar.jsx';
 import './Tetris.css'
 
 export default class Tetris extends Component {
